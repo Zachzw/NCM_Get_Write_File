@@ -1,6 +1,6 @@
 # Prerequisites
 
-1. [Python 3.8.x](https://www.python.org/downloads/) installed on machine
+1. [Python 3.8.x+](https://www.python.org/downloads/) installed on machine
 
 1. Install python requests library
 
